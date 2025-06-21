@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; padding: 20px; }
+#product-list { display: flex; flex-wrap: wrap; gap: 20px; }
+.product { border: 1px solid #ccc; padding: 10px; width: 200px; }
